@@ -42,22 +42,43 @@ Average Order Value (AOV): Display a card with the calculated AOV.
 Visualize Monthly Profit:
 
 Create a stacked column chart showing the sum of profit by month.
+![chart 1](https://github.com/user-attachments/assets/e06d098c-eb28-4dd0-ae21-5a7a3e78286e)
 
 Visualize Profit by Subcategory:
 
 Create a cluster bar chart illustrating the sum of profit by subcategory.
+![chart 2](https://github.com/user-attachments/assets/f78dcff8-3587-467a-9221-a260fedfe174)
 
 Visualize Quantity by Category:
 
 Create a donut chart representing the sum of quantity by category.
 
+![chart 3](https://github.com/user-attachments/assets/79a75bbb-95ad-4843-bee2-e84bded85364)
+
+
+
 Visualize Quantity by Payment Mode:
 
 Create a bar chart displaying the sum of quantity by payment mode.
 
+![chart 4](https://github.com/user-attachments/assets/188f1cb8-8cf2-4364-a16e-2e6e4daa32cd)
+
+
+
+
+
+
+
 Highlight Large Payments:
 
 Create a stacked column chart showcasing significant payments by customers.
+
+![chart 6](https://github.com/user-attachments/assets/5e713656-d350-4071-a9a7-693060871b92)
+
+
+
+
+
 
 Visualize Amounts by State:
 

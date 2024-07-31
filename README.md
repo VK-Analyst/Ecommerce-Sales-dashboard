@@ -55,19 +55,11 @@ Create a donut chart representing the sum of quantity by category.
 
 ![chart 3](https://github.com/user-attachments/assets/79a75bbb-95ad-4843-bee2-e84bded85364)
 
-
-
 Visualize Quantity by Payment Mode:
 
 Create a bar chart displaying the sum of quantity by payment mode.
 
 ![chart 4](https://github.com/user-attachments/assets/188f1cb8-8cf2-4364-a16e-2e6e4daa32cd)
-
-
-
-
-
-
 
 Highlight Large Payments:
 
@@ -75,18 +67,19 @@ Create a stacked column chart showcasing significant payments by customers.
 
 ![chart 6](https://github.com/user-attachments/assets/5e713656-d350-4071-a9a7-693060871b92)
 
-
-
-
-
-
 Visualize Amounts by State:
 
 Create a cluster bar chart showing the sum of amounts by state.
+
+![chart 5](https://github.com/user-attachments/assets/d07df737-0536-456e-bf42-4560ad592d6b)
 
 Add Interactive Slicers:
 
 State Slicer: Include a slicer for filtering data by state.
 
 Quarterly Sales Slicer: Include a slicer for filtering data by quarterly sales.
+
+#final outcomes of sales dashboard
+
+![final outcome](https://github.com/user-attachments/assets/cff3f08b-4208-4031-81d7-38ea80150529)
 

@@ -1,4 +1,4 @@
-# Rahul Ecommerce-Sales-dashboard
+# Rahul Ecommerce-Sales-Dashboard
 # Problem Question:
 
 Rahul’s Clothing Store has accumulated a substantial amount of data from its sales, inventory, and customer interactions. Rahul is seeking to hire a data analyst to analyze this data and provide actionable insights. The goal is to optimize inventory management, refine pricing strategies, and improve marketing efforts. How can a data analyst effectively utilize this data to identify trends and patterns that will enhance business operations and decision-making for Rahul’s Clothing Store?Data Preparation Steps
